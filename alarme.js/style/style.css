@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+}
+
+button{
+    background-color: rgb(10, 0, 102);
+    color: aliceblue;
+    padding: 2px 8px;
+    cursor: pointer;
+    border: 0;
+    
+}
